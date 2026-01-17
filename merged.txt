@@ -226,6 +226,8 @@ Azevedo, Tânia P.
     biblio-398
 Aðalsteinsdottir, Ungfrú
     letters-to-292
+
+
 Babut, Benjamin
     biblio-951
 Bacelli, Bruno
@@ -1401,11 +1403,12 @@ Dadlez, Alina
     letters-to-99
     letters-to-183
     letters-to-575
-Dagnall, Margery Kathleen Mary, known as Susan
-    scull-and-hammond
-Dagnall, Susan
-    letters-from-27
-    letters-to-47
+
+Dagnall, Margery Kathleen Mary
+    scull-and-hammond as Dagnall, Margery Kathleen Mary, known as Susan
+    letters-from-27 as Dagnall, Susan
+    letters-to-47 as Dagnall, Susan
+
 Dalcolmo, Anastassia
     biblio-812
 Dalessio, Christine Falk
@@ -1428,10 +1431,11 @@ Darbishire, Helen
     scull-and-hammond
 Darius, Fábio Augusto
     biblio-1650
-Darrington, Miss
-    letters-to-262
+
 Darrington, Miss Fay
     letters-to-259
+    letters-to-262 as Darrington, Miss ???
+
 Darvell, Lilian
     biblio-514
 Dauphragne, Antoine
@@ -1459,13 +1463,15 @@ Davis, Howard
     biblio-1708
 Davis, James G.
     biblio-1535
+Davis, Lena
+    letters-to-174 as Davis, Norman and Lena
+
 Davis, Norman
     scull-and-hammond
     letters-to-545
-Davis, Norman and Lena
-    letters-to-174
-Davis, Professor Norman
-    letters-to-381
+    letters-to-174 as Davis, Norman and Lena
+    letters-to-381 as Davis, Professor Norman
+
 Davis, Rebecca
     biblio-507
 Davison, Tony
@@ -1475,13 +1481,14 @@ Dawkins, Richard MacGillivray
     scull-and-hammond
 Dawson, Deidre A.
     biblio-66
-Day, Mabel
-    letters-from-32
-    letters-from-39
-    letters-to-60
-    letters-to-690
+
 Day, Mabel Katherine
     scull-and-hammond
+    letters-from-32 as Day, Mabel
+    letters-from-39 as Day, Mabel
+    letters-to-60 as Day, Mabel
+    letters-to-690 as Day, Mabel
+
 De Rosario Martínez, Helios
     biblio-78
 De Zulueta, Francis
@@ -1504,7 +1511,7 @@ Delasalle, Clément
     biblio-921
 Delattre, Charles
     biblio-182
-Dell, 
+Dell, ???
     letters-to-493
 Delon, Gaspard
     biblio-867
@@ -1516,10 +1523,11 @@ Denekamp, Andrea
     biblio-688
 Denham, Robert D.
     biblio-1560
-Denmark, Margrethe, Princess of
-    letters-from-234
+
 Denmark, Queen Margrethe of
     letters-to-490
+    letters-from-234 as Denmark, Margrethe, Princess of
+
 Dennis, Mitchell T.
     biblio-1845
 Derdzinski, Ryszard
@@ -1532,10 +1540,11 @@ Devaux, Michaël
     biblio-19
 Devine, Celia
     biblio-1154
-Deyo, Steven M.
-    biblio-622
+
 Deyo, Steven Mark
     artists-226
+    biblio-622 as Deyo, Steven M.
+
 Di Scala, Roberto
     biblio-1507
 DiNapoli, Robert
@@ -1575,7 +1584,7 @@ Dodds, David Llewellyn
     biblio-223
 Dodds, E.R.
     letters-from-231
-Dodds, Professor
+Dodds, Professor ???
     letters-to-509
 Doerksen, Mark
     biblio-1664
@@ -1656,7 +1665,7 @@ Dunai, Amber
     biblio-609
 Duncan, Ellen
     biblio-1447
-Duncan, Miss
+Duncan, Miss ???
     letters-to-203
 Dundas-Grant, James Harold
     scull-and-hammond
@@ -1685,7 +1694,7 @@ Dutto, Gianfranco
     artists-298
 Dyer, Brendan
     biblio-1123
-Dyson, Henry Victor Dyson
+Dyson, Henry Victor Dyson ???
     scull-and-hammond
 Dědinová, Tereza
     biblio-1013
@@ -1693,6 +1702,8 @@ D’Arcy, Martin Cyril
     scull-and-hammond
 D’Ardenne, Simonne Rosalie Thérèse Odile
     scull-and-hammond
+
+
 Ead, James
     biblio-547
 Eaglestone, Robert
