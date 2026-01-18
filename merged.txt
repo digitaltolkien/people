@@ -1741,8 +1741,11 @@ Edwards, Raymond
     biblio-493
 Edwards, Susan “Tuilinde”
     biblio-797
+
 Egan, Thomas M.
     biblio-159
+    letters-to-677 as M.Egan, Thomas ???
+
 Egede-Pedersen, Brian
     biblio-1429
 Ehrardt, Mrs E. R.
@@ -3417,7 +3420,7 @@ Köser, Stephan
     biblio-699
 
 
-L.F., Mrs.
+L.F., Mrs. ???
     letters-to-196
 Labbé, Denis
     biblio-849
@@ -3438,7 +3441,7 @@ Lago, Alberto dal
     artists-192
 Lagopoulos, Alexandros Ph.
     biblio-1084
-Laithaine, 
+Laithaine, ???
     artists-69
 Lakowski, Romuald Ian
     biblio-152
@@ -3562,26 +3565,25 @@ Levitt, Jonathan
     biblio-1901
 Lewis, Alex
     biblio-49
-Lewis, C. S.
-    biblio-1051
-    letters-to-596
-Lewis, C.S.
-    letters-from-11
-    letters-to-85
-Lewis, Cecil
-    letters-from-124
+
 Lewis, Clive Staples
     scull-and-hammond
+    biblio-1051 as Lewis, C. S.
+    letters-to-596 as Lewis, C. S.
+    letters-from-11 as Lewis, C.S.
+    letters-to-85 as Lewis, C.S.
+
+Lewis, Cecil
+    letters-from-124
 Lewis, Paul W.
     biblio-1781
-Lewis, W.H.
-    letters-to-82
-Lewis, Warren H.
-    letters-to-565
+
 Lewis, Warren Hamilton
     scull-and-hammond
-Lewis, Warren [Warnie]
-    letters-to-194
+    letters-to-82 as Lewis, W.H.
+    letters-to-565 as Lewis, Warren H.
+    letters-to-194 as Lewis, Warren [Warnie]
+
 Lewis-Anthony, Justin
     biblio-1428
 Leyerle, John
@@ -3621,12 +3623,14 @@ Lippold, Eva
     biblio-765
 Liu, Faith
     biblio-550
+
 Livesey, Michael
     biblio-1899
-Livesey, Mr.
+Livesey, Mr. ???
     letters-to-466
-Livesey, Mr. and Mrs.
+Livesey, Mr. and Mrs. ???
     letters-to-614
+
 Livingston, Michael
     biblio-277
 Lloyd, Paul M.
@@ -3637,13 +3641,13 @@ Loback, Tom
     biblio-155
     artists-23
     letters-to-694
-Lobdell, J.C.
-    letters-to-76
-Lobdell, Jared
-    biblio-92
-    letters-to-494
+
 Lobdell, Jared C.
     letters-to-100
+    letters-to-76 as Lobdell, J.C.
+    biblio-92 as Lobdell, Jared
+    letters-to-494 as Lobdell, Jared
+
 Loccardi, Patrizia
     artists-196
 Lockerd, Martin
@@ -3706,7 +3710,7 @@ Luoto-Tudeer, Sari
     artists-60
 Lupoff, Richard
     letters-to-360
-Lydia, 
+Lydia, ???
     letters-to-639
 Lynch, Andrew
     biblio-992
@@ -3714,10 +3718,11 @@ Lynch, Eric A.
     biblio-1149
 Lynch, James
     biblio-1691
-Lyon, Patrick
-    biblio-1581
+
 Lyon, Patrick J.
     biblio-1905
+    biblio-1581 as Lyon, Patrick ???
+
 Léaud, Francis
     biblio-822
 Léon, Sarah
@@ -3730,8 +3735,8 @@ López Martínez, Sergio
     biblio-1511
 Lœvenbruck, Henri
     biblio-898
-M.Egan, Thomas
-    letters-to-677
+
+
 Mac Laughlin, Alfredo J.
     biblio-1893
 MacDonald, George
