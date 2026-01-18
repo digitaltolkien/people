@@ -2155,14 +2155,15 @@ Garcia, Katerina
     artists-260
 Garcia, Tamara
     artists-150
-García de La Puerta, Marta
-    biblio-1758
+
 García de la Puerta, Marta
     biblio-680
-Gardner, Helen
-    letters-from-244
+    biblio-1758 as García de La Puerta, Marta ???
+
 Gardner, Helen Louise
     scull-and-hammond
+    letters-from-244 as Gardner, Helen
+
 Garig, Lee
     artists-227
 Garland, Roger
@@ -2195,7 +2196,7 @@ Gell-Mann, Elizabeth "Lisa"
     letters-to-619
 Genefort, Laurent
     biblio-901
-Gentile, The Brothers
+Gentile, The Brothers ???
     artists-212
 Gentry, Kristin
     artists-464
@@ -2222,7 +2223,7 @@ Gilbert, J.D.
     letters-to-417
 Gill, Glen Robert
     biblio-1327
-Gill, Mrs
+Gill, Mrs ???
     letters-to-329
 Gillespie, Gerald V.
     biblio-1706
@@ -2237,26 +2238,29 @@ Gilson, Cary
 Gilson, Christopher
     biblio-37
     artists-488
+
 Gilson, Marianne Cary
     letters-from-95
     letters-to-10
-Gilson, Marriane Cary
-    letters-to-80
-Gilson, Mrs. Cary
-    letters-to-648
-Gilson, Rob
+    letters-to-80 as Gilson, Marriane Cary
+    letters-to-648 as Gilson, Mrs. Cary
+
+Gilson, Rob ???
     letters-from-10
     letters-to-45
-Gilson, Robert
+Gilson, Robert ???
     letters-from-71
+
 Gilson, Robert Cary
     scull-and-hammond
     letters-from-140
     letters-to-193
+
 Gilson, Robert Quilter
     scull-and-hammond
     letters-from-6
     letters-to-111
+
 Giraud, Nathalie
     biblio-472
 Giraudeau, David
@@ -2277,10 +2281,12 @@ Glorie, Sebastien
     artists-461
 Glover, Donald
     letters-to-554
-Glover, Will
+
+Glover, Will ???
     biblio-1878
-Glover, Willis D.
+Glover, Willis D. ???
     biblio-619
+
 Glyer, Diana Pavlac
     biblio-148
 Gobbo, Francesca
@@ -2305,7 +2311,7 @@ Gollins, Annie
     scull-and-hammond
 Gonzalez, Lorena Garcia
     artists-423
-Gonzalez, Miss
+Gonzalez, Miss ???
     letters-to-418
 GoodKnight, Bonnie
     artists-208
@@ -2315,26 +2321,26 @@ Goodwin, Karen
     biblio-1236
 Gordeyev, Denis
     artists-247
-Gordon, E. V.
-    letters-from-19
-Gordon, E.V.
-    letters-to-46
-    letters-to-572
+
 Gordon, Eric Valentine
     scull-and-hammond
     letters-to-208
-Gordon, George S.
-    letters-from-13
-    letters-to-30
-    letters-to-559
+    letters-from-19 as Gordon, E. V.
+    letters-to-46 as Gordon, E.V.
+    letters-to-572 as Gordon, E.V.
+
 Gordon, George Stuart
     scull-and-hammond
+    letters-from-13 as Gordon, George S.
+    letters-to-30 as Gordon, George S.
+    letters-to-559 as Gordon, George S.
+
 Gordon, Ida
     letters-from-34
     letters-to-24
 Gordon, Mary C.
     letters-to-533
-Gordon, Mrs.
+Gordon, Mrs. ???
     letters-to-652
 Gordon, Robert Hope
     scull-and-hammond
@@ -2344,7 +2350,7 @@ Gorman, Anita G.
     biblio-1754
 Goselin, Peter Damien
     biblio-1695
-Gould, Mrs
+Gould, Mrs ???
     letters-to-255
 Grabisch, Rémi
     artists-80
@@ -2368,18 +2374,19 @@ Green, Lance A.
     biblio-551
 Green, Melody
     biblio-631
+
 Green, Roger Gilbert Lancelyn
     scull-and-hammond
-Green, Roger Lancelyn
-    letters-from-214
-    letters-to-71
+    letters-from-214 as Green, Roger Lancelyn
+    letters-to-71 as Green, Roger Lancelyn
+
 Green, William H.
     biblio-488
 Greene, Deirdre
     biblio-526
 Greene, Elliott
     biblio-758
-Greenleaf, 
+Greenleaf, ???
     artists-327
 Greenman, David
     biblio-624
@@ -2397,12 +2404,13 @@ Grewell, Cory
     biblio-1103
 Grey, P.R.
     letters-to-645
-Griffiths, Elaine
-    letters-from-154
-    letters-to-597
+
 Griffiths, Mary Elaine
     scull-and-hammond
-Griffiths, Mr
+    letters-from-154 as Griffiths, Elaine
+    letters-to-597 as Griffiths, Elaine
+
+Griffiths, Mr ???
     letters-to-469
 Grigorjeva, Natalia
     biblio-1201
@@ -2417,11 +2425,12 @@ Groom, Nick
     biblio-172
 Grote, Georg
     biblio-1398
-Grove, Jennie
-    letters-from-178
-    letters-to-607
+
 Grove, Mary Jane, known as Jennie
     scull-and-hammond
+    letters-from-178 as Grove, Jennie
+    letters-to-607 as Grove, Jennie
+
 Groß, Rainer
     biblio-710
 Grubbs, David
@@ -2442,8 +2451,6 @@ Guanio-Uluru, Lykke
     biblio-999
 Guanio-Uluru, Lykke H. A.
     biblio-1589
-Guardian, The
-    letters-to-467
 Gueroult, Denys
     biblio-894
 Guite, Malcolm
@@ -2471,6 +2478,8 @@ Gymnich, Marion
     biblio-669
 Gálvez Gómez, Laura
     biblio-1513
+
+
 Haack, Mr.
     letters-to-454
 Haber, Karen
@@ -2504,8 +2513,8 @@ Hall, Mark F.
     biblio-1769
 Hall, Molly Volanth
     biblio-725
-Hall, R.~D.
-    biblio-1777
+Hall, R.D. ???
+    biblio-1777 as Hall, R.~D.
 Hall, Robert A.
     biblio-621
 Hall, Tony
@@ -2526,8 +2535,7 @@ Halsall, Michael John
     biblio-1457
 Halsbury, John Anthony Hardinge Giffard, Earl of
     scull-and-hammond
-Halsbury, Lord
-    letters-to-95
+    letters-to-95 as Halsbury, Lord ???
 Hamalainen, Sonja
     artists-383
 Hamby, James
@@ -2552,18 +2560,19 @@ Hansen, Tove
     letters-to-465
 Harbman, Joshua
     biblio-1339
-Hardax, 
+Hardax, ???
     artists-466
 Hardgrave, Martin
     biblio-1213
 Hardie, Colin Graham
     scull-and-hammond
-Harding, Messrs. Goadsby and
+Harding, Messrs. Goadsby and ???
     letters-to-495
-Harding, Willard G.
-    letters-to-207
+
 Harding, William G.
     letters-to-206
+    letters-to-207 as Harding, Willard G.
+
 Hargrove, Gene
     biblio-1728
 Harhu, Juha
@@ -2612,12 +2621,12 @@ Hatcher, Melissa McCrory
     biblio-1776
 Hausmann, Michaela
     biblio-293
-Havard, R. E.
-    biblio-1746
-Havard, Robert
-    letters-to-105
+
 Havard, Robert Emlyn
     scull-and-hammond
+    biblio-1746 as Havard, R. E. ???
+    letters-to-105 as Havard, Robert ???
+
 Havins, Rhonda
     artists-232
 Hawke, D. M.
@@ -2656,7 +2665,7 @@ Hennelly, Mark M.
     biblio-1711
 Henon, Priscille
     biblio-948
-Henrik, 
+Henrik, ???
     artists-410
 Henriksen, Juha-Matti
     biblio-1412
@@ -2666,7 +2675,7 @@ Heppenstall, Rayner
     letters-to-63
 Hepworth, Jonathan
     letters-to-336
-Hepworth, Mr.
+Hepworth, Mr. ???
     letters-to-337
 Herbert, Kathleen
     biblio-1226
@@ -2694,22 +2703,23 @@ Higbie, Robert
     biblio-1736
 Higgens, Deborah A.
     biblio-1049
-Higgins, 
+Higgins, ???
     letters-to-537
 Higgins, Andrew S.
     biblio-18
-Higgins, Dr.
+Higgins, Dr. ???
     letters-to-538
 Higgins, Melissa
     biblio-1039
-Higgins, Mr
+Higgins, Mr ???
     letters-to-287
 Higgins, Sørina
     biblio-502
-Hijo, Thomas
-    artists-437
+
 Hijo, Tomas
     artists-157
+    artists-437 as Hijo, Thomas
+
 Hildebrandt, Greg
     artists-15
 Hildebrandt, Tim
@@ -2720,14 +2730,14 @@ Hill, Alan
     letters-to-504
 Hill, Helen
     biblio-1022
-Hill, Joy
-    letters-from-9
-    letters-from-128
-    letters-to-11
+
 Hill, Margaret Joy
     scull-and-hammond
-Hill, Miss Joy
-    letters-from-120
+    letters-from-120 as Hill, Miss Joy ???
+    letters-from-9 as Hill, Joy
+    letters-from-128 as Hill, Joy
+    letters-to-11 as Hill, Joy
+
 Hillier, Caroline
     letters-to-665
 Hillman, Thomas
@@ -2797,7 +2807,7 @@ Hoofnagle, Wendy Marie
     biblio-1913
 Hooker, Mark T.
     biblio-24
-Hooper, 
+Hooper, ???
     letters-to-539
 Hooper, Boyd
     letters-to-511
@@ -2806,13 +2816,14 @@ Hooper, Jon
 Hooper, Walter
     biblio-329
     letters-to-152
-Hooton, Mr
-    letters-to-158
-Hooton, Mr.
+
+Hooton, Mr. ???
     letters-to-388
+    letters-to-158 as Hooton, Mr
+
 Hope, A.M.
     letters-from-144
-Hope, Miss
+Hope, Miss ???
     letters-to-500
 Hope, Richard
     letters-to-622
@@ -2828,10 +2839,11 @@ Hoskin, Matthew J. J.
     biblio-766
 Hoskin, Niall
     letters-to-410
-Hostetter, Carl
-    letters-to-524
+
 Hostetter, Carl F.
     biblio-64
+    letters-to-524 as Hostetter, Carl
+
 Houghton, John Wm.
     biblio-13
 House, Arthur
@@ -2840,7 +2852,7 @@ House-Thomas, Alyssa
     biblio-333
 How, Miss R.W.
     letters-to-219
-How, Mr.
+How, Mr. ???
     letters-to-531
 Howard, Christopher
     letters-to-610
@@ -2881,8 +2893,10 @@ Hunnewell, Sylvia
     artists-9
 Hunt, Agatha Carew
     letters-to-364
-Hunt, Mr [Patrick]
-    letters-to-272
+
+Hunt, Patrick
+    letters-to-272 as Hunt, Mr [Patrick]
+
 Hunt, Peter
     biblio-1637
 Hunt, Raymond
@@ -2893,13 +2907,13 @@ Hurdling, Glenn
     biblio-460
 Husbands, Winifred
     letters-from-204
-Huttar, Charles
-    letters-from-41
-    letters-to-58
+
 Huttar, Charles A.
     biblio-243
-Huttar, Mr. Charles
-    letters-to-476
+    letters-from-41 as Huttar, Charles
+    letters-to-58 as Huttar, Charles
+    letters-to-476 as Huttar, Mr. Charles
+
 Hutton, Clark
     biblio-1782
 Hutton, Ronald
@@ -2920,6 +2934,8 @@ Hynynen, Juha-Matti
     artists-303
 Høgset, Øystein
     biblio-666
+
+
 I.T.T
     biblio-1227
 III, Karl Taps
