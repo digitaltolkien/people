@@ -3751,10 +3751,11 @@ MacLeod, Jeffrey J.
     biblio-604
 MacNamara, Rose
     letters-to-426
-Maccari, A.
-    artists-336
+
 Maccari, Alessandro
     artists-19
+    artists-336 as Maccari, A.
+
 Mackay, A.I.
     letters-to-510
 Mackreth, John
@@ -3785,7 +3786,7 @@ Maier, Norbert
     biblio-771
 Maillard, Dimitri
     biblio-309
-Majah, 
+Majah, ???
     artists-146
 Makai, Péter Kristóf
     biblio-394
@@ -3830,8 +3831,8 @@ Marcus, Mrs.
     letters-to-348
 Mariani, Michele
     artists-279
-Maringer), Orgulas Maggot (Tom
-    artists-138
+Maringer, Tom ???
+    artists-138 as Maringer), Orgulas Maggot (Tom
 Marino, John B.
     biblio-1484
 Markos, Louis
@@ -3846,13 +3847,13 @@ Marnock, Craig
     biblio-361
 Marples, Laura
     biblio-1191
-Marringer, Tom
+Marringer, Tom ???
     biblio-1396
 Marsan, Stéphane
     biblio-897
 Marsh, James S.
     letters-to-320
-Marsh, Mr.
+Marsh, Mr. ???
     letters-to-319
 Marshall, Dora
     letters-to-299
@@ -3893,11 +3894,12 @@ Mary Michael
     scull-and-hammond
 Maryson, W. J.
     biblio-792
-Masefield, John
-    letters-from-202
-    letters-to-84
+
 Masefield, John Edward
     scull-and-hammond
+    letters-from-202 as Masefield, John
+    letters-to-84 as Masefield, John
+
 Mashhadi, Ashfaq
     biblio-1244
 Mason, L.
@@ -3966,12 +3968,12 @@ McCall, David
     letters-to-401
 McCall, Niall
     letters-to-400
-McCallum, Mr
-    letters-to-654
-McCallum, R. B.
-    letters-to-548
+
 McCallum, Ronald Buchanan
     scull-and-hammond
+    letters-to-548 as McCallum, R. B.
+    letters-to-654 as McCallum, Mr ???
+
 McCaulay Basso, Ann
     biblio-1788
 McClain, Michael
@@ -4061,10 +4063,11 @@ Mensencal, Julien
     artists-172
 Menzies, Janet
     biblio-1030
-Mercer,  Archie
-    biblio-1269
+
 Mercer, Archie
     biblio-348
+    biblio-1269 as Mercer,  Archie
+
 Merelle, Manuel
     artists-365
 Merino, Javier Lorenzo
@@ -4077,10 +4080,11 @@ Merriner, Joel
     biblio-264
 Mertens, Jonas
     biblio-1895
-Meskys, Ed
-    letters-to-104
+
 Meskys, Edmund
     letters-to-308
+    letters-to-104 as Meskys, Ed
+
 Metlitskaya, Zoya
     biblio-1444
 Metzler, Irina
@@ -4091,7 +4095,7 @@ Meyer, Robert Theodore
     letters-to-170
 Meylan, Nicolas
     biblio-861
-Miatech, Mr.
+Miatech, Mr. ???
     letters-to-497
 Michel, Laura
     biblio-674
@@ -4099,8 +4103,6 @@ Michelucci, Luca
     artists-30
 Miesel, Sandra
     biblio-562
-Mifflin, Houghton
-    letters-to-375
 Migeot, Jean-Louis
     biblio-891
 Mikić, Aleksandar
@@ -4135,10 +4137,11 @@ Milligan, J. Bryce
     letters-to-461
 Mills, Charles W.
     biblio-1094
-Mills, Stella
-    letters-to-608
+
 Mills, Stella Marie
     scull-and-hammond
+    letters-to-608 as Mills, Stella
+
 Milner, Guy
     letters-to-477
 Milon, Anna
@@ -4171,22 +4174,23 @@ Mitchell, Charles
     letters-from-70
 Mitchell, Jesse
     biblio-1795
-Mitchell, Mr.
+Mitchell, Mr. ???
     letters-to-239
 Mitchell, Philip Irving
     biblio-368
-Mitchison, Mrs. Naomi
-    letters-to-220
-Mitchison, Naomi
-    letters-to-37
+
 Mitchison, Naomi Mary Margaret
     scull-and-hammond
-Mitton family
+    letters-to-37 as Mitchison, Naomi
+    letters-to-220 as Mitchison, Mrs. Naomi
+
+Mitton family ???
     scull-and-hammond
-Modlmayr, Hans Jörg
-    letters-to-421
+
 Modlmayr, Hans-Jörg
     letters-to-160
+    letters-to-421 as Modlmayr, Hans Jörg
+
 Moe, Todd
     artists-89
 Mohammadi, Farid
@@ -4223,12 +4227,17 @@ Montoya, Raquel
     artists-342
 Mooney, Chris
     biblio-1323
-Moore, Charles and Dorothy
-    letters-to-613
+
+Moore, Charles
+    letters-to-613 as Moore, Charles and Dorothy
+
 Moore, Clare
     biblio-65
+
 Moore, Dorothy
     letters-from-182
+    letters-to-613 as Moore, Charles and Dorothy
+
 Moore, Eileen Marie
     biblio-1577
 Moore, J. Cameron
@@ -4237,7 +4246,7 @@ Moore, Kenneth
     biblio-1099
 Moore, Mark
     biblio-1286
-Moore, Miss
+Moore, Miss ???
     letters-to-227
 Moore, Scott H.
     biblio-1066
@@ -4249,22 +4258,23 @@ Morelle, Audrey
     biblio-144
 Morello, Yann
     biblio-434
-Morey, Adrian
-    letters-to-581
+
 Morey, Rev. Adrian
     letters-from-83
-Morgan, Father Francis
-    letters-from-31
-    letters-to-123
+    letters-to-581 as Morey, Adrian
+
 Morgan, Francis Xavier
     scull-and-hammond
+    letters-from-31 as Morgan, Father Francis
+    letters-to-123 as Morgan, Father Francis
+
 Morillo, Stephen
     biblio-1322
 Morisi, Valérie
     biblio-730
 Morland, Oscar
     letters-to-419
-Morley, Miss
+Morley, Miss ???
     letters-to-457
 Morrill, Rowena
     artists-217
@@ -4290,14 +4300,15 @@ Mouton, Marguerite
     biblio-965
 Mowry, Ruthann
     biblio-1897
+
 Mroczkowska, Maria
     letters-to-447
-Mroczkowska, Mrs.
-    letters-to-445
-Mroczkowski, Przemyslaw
-    letters-to-29
+    letters-to-445 as Mroczkowska, Mrs.
+
 Mroczkowski, Przemysław
     letters-from-228
+    letters-to-29 as Mroczkowski, Przemyslaw
+
 Mueller-Harder, Erik
     biblio-506
 Munby, Mrs.
@@ -4316,18 +4327,19 @@ Murphy, Patrick J.
     biblio-1585
 Murphy, R. J.
     biblio-1620
-Murray, Father Robert
-    letters-to-140
 Murray, Gilbert
     letters-to-521
 Murray, James A.H.
     letters-to-289
 Murray, Jef
     artists-7
-Murray, Robert
+Murray, Robert ???
     biblio-1289
+
 Murray, Robert Patrick Ruthven
     scull-and-hammond
+    letters-to-140 as Murray, Father Robert
+
 Murray, Rosfrith
     letters-to-134
 Musciad, Eta
@@ -4346,6 +4358,8 @@ Müller, Anja
     biblio-711
 Mączyńska, Magdalena
     biblio-692
+
+
 Nacher, Inmaculada
     artists-428
 Nagel, Rainer
