@@ -85,7 +85,7 @@ Alexander, M. Lee
     biblio-1074
 Alford, Peter
     letters-to-66
-Alia, 
+Alia, ???
     artists-70
 Alibert, Laurent
     biblio-465
@@ -96,7 +96,7 @@ Allard, Sylvie
     artists-359
 Allen, Edward A.
     letters-to-519
-Allen, Miss
+Allen, Miss ???
     letters-to-502
 Allen, Richard
     biblio-1394
@@ -104,7 +104,7 @@ Allen, Walter
     letters-to-365
 Alliot, Bertrand
     biblio-386
-Alqinas.art, 
+Alqinas.art, ???
     artists-484
 Amadio, Francesco
     artists-71
@@ -130,7 +130,7 @@ Anel, Suzanne
     biblio-876
 Anello, Clarissa
     artists-445
-Ange
+Ange ???
     biblio-902
 Ankeny, Rebecca
     biblio-1605
@@ -148,7 +148,7 @@ Anver, Gazala
     biblio-807
 Aparicio, Valentina P.
     biblio-757
-Ar-Caras (Inn of Nijmegen)
+Ar-Caras (Inn of Nijmegen) ???
     biblio-788
 Archer, Jerome W.
     letters-to-137
@@ -197,7 +197,6 @@ Aubrig, Walter
     biblio-963
 Aubron, Hervé
     biblio-958
-
 Audas, Jordan
     biblio-1493
 
@@ -474,7 +473,7 @@ Biddell, Joyce
     letters-to-241
 Bientinesi, Margherita
     artists-78
-Bill, 
+Bill, ???
     letters-to-470
 Billot, Vincent
     biblio-877
@@ -559,7 +558,7 @@ Boillet, Pascal
     artists-52
 Boissay, Solveig
     biblio-123
-Bokförlag, Kooperativa Förbundets
+Bokförlag, Kooperativa Förbundets ???
     letters-from-235
 Boklund-Lagopoulou, Karin
     biblio-1083
@@ -768,7 +767,7 @@ Brogan, Olwen
 Brooke, Johanna H.
     biblio-1872
 
-Brookes-Smith family
+Brookes-Smith family ???
     scull-and-hammond
 Brookes-Smith, Colin
     letters-from-86
@@ -783,7 +782,7 @@ Broome, Hal (Mithrandir)
     biblio-1273
 Brougère, Gilles
     biblio-851
-Brown, 
+Brown, ???
     letters-to-288
 Brown, Adam
     biblio-1870
@@ -793,7 +792,7 @@ Brown, Jonathan
     biblio-1270
 Brown, Josh
     biblio-1070
-Brown, Mr.
+Brown, Mr. ???
     letters-to-444
 Brown, Rob
     biblio-1409
@@ -897,11 +896,11 @@ Burns, Maggie
     biblio-195
 Burns, Marjorie
     biblio-44
-Burns, Mr
+Burns, Mr ???
     letters-to-501
 Burriss, Larry
     biblio-1846
-Burrows, Mr
+Burrows, Mr ???
     letters-to-405
 Burton, Joseph
     biblio-1667
@@ -935,7 +934,7 @@ Błaszkiewicz, Maria
     biblio-684
 
 
-C.B., 
+C.B., ???
     letters-to-83
 Caballero, Miguel Pascual
     artists-397
@@ -1712,7 +1711,7 @@ Eames, Ronald
     letters-from-7
     letters-to-17
     letters-to-296
-Earle, Mrs
+Earle, Mrs ???
     letters-to-247
 Earp, Thomas Wade
     scull-and-hammond
@@ -1734,7 +1733,7 @@ Edmonds, Jeremy
     biblio-512
 Edmunds, E. L.
     biblio-1739
-Edwards, Mr
+Edwards, Mr ???
     letters-to-669
 Edwards, Raymond
     biblio-493
@@ -1780,7 +1779,7 @@ Elston, Charles B.
     biblio-1116
 Elton, Oliver
     letters-from-175
-Elwyn, 
+Elwyn, ???
     artists-326
 Emanuel, Tom
     biblio-100
@@ -1802,11 +1801,11 @@ Ennis, Mick
     biblio-1421
 Enright, Nancy
     biblio-1331
-Eowenofmay, 
+Eowenofmay, ???
     artists-386
 Epstein, Rebecca
     biblio-105
-Ergo, 
+Ergo, ???
     artists-108
 Ertsgaard, Gabriel
     biblio-695
@@ -1820,9 +1819,9 @@ Espinosa, Cesar
     artists-398
 Estes, Douglas
     biblio-274
-Etkin, A. D. L
+Etkin, A. D. L ???
     biblio-1262
-Etkin, Anne
+Etkin, Anne ???
     biblio-350
     letters-to-35
 Eubanks, Peter
@@ -1843,6 +1842,8 @@ Eward, Suzanne
     letters-to-162
 Ewijck, Annemarie van
     biblio-418
+
+
 Faini, Edvige
     artists-193
 Fairbank, Christian Albert Hastings
@@ -1867,26 +1868,29 @@ Falzon, Robert
     biblio-1280
 Farhra, Paul-Hicham
     biblio-829
-Farnell, L.R.
-    letters-from-147
+
 Farnell, Lewis Richard
     scull-and-hammond
+    letters-from-147 as Farnell, L.R.
+
 Farr, Timothy M.
     biblio-1411
 Farrer, Austin
     letters-to-546
-Farrer, Katharine
-    letters-from-40
-    letters-to-21
-    letters-to-547
+
 Farrer, Katharine Dorothy
     scull-and-hammond
+    letters-from-40 as Farrer, Katharine
+    letters-to-21 as Farrer, Katharine
+    letters-to-547 as Farrer, Katharine
+
 Farrugia, Lindsay
     biblio-1281
-Faure-Brac, Eric
-    artists-37
+
 Faure-Brac, Éric
     biblio-827
+    artists-37 as Faure-Brac, Eric
+
 Fauskanger, Helge K.
     biblio-208
 Faxon, Mr.
@@ -1915,10 +1919,11 @@ Fernández Menicucci, Amaya
     biblio-752
 Fernández Portaencasa, María
     biblio-635
-Ferrández Bru, José Manuel
+
+Ferrández Bru, José Manuel ???
     biblio-187
-Ferrández-Bru, José Manuel
-    biblio-1436
+    biblio-1436 as Ferrández-Bru, José Manuel ???
+
 Ferré, Vincent
     biblio-21
 Festinger, Kurt
@@ -1963,7 +1968,7 @@ Flanders, Swann and
     letters-to-637
 Flaton, Johan-Martijn
     biblio-783
-Fletcher, 
+Fletcher, ???
     artists-62
 Fletcher, R.F.W.
     letters-from-242
@@ -1978,10 +1983,11 @@ Flieller, Éric
     biblio-112
 Flint, Miss
     letters-to-169
+
 Fliss, William
     biblio-1578
-Fliss, William M.
-    biblio-1818
+    biblio-1818 as Fliss, William M.
+
 Flood, John
     biblio-524
 Flowers, Michael
@@ -2049,9 +2055,9 @@ François, Anne Isabelle
     biblio-903
 Fraser, John
     scull-and-hammond
-Fraser, K. C.
+Fraser, K. C. ???
     biblio-1219
-Fraser, Kenneth
+Fraser, Kenneth ???
     biblio-1186
 Frau, Dalmathio
     artists-274
@@ -2065,10 +2071,11 @@ Freeh, Helen Lasseter
     biblio-1063
 Freeman, Austin M.
     biblio-72
-Fregni, Giovana
-    artists-240
+
 Fregni, Giovanna
     artists-87
+    artists-240 as Fregni, Giovana ???
+
 Freigeiro, Sebastian Alejandro
     biblio-1148
 Frengi, Giovanna
@@ -2087,8 +2094,7 @@ Frost, Mrs
     letters-to-628
 Fry, Carrol
     biblio-1553
-Fry, Carrol L.
-    biblio-1817
+    biblio-1817 as Fry, Carrol L.
 Fulk, Angela
     biblio-1665
 Fuller, Edmund
@@ -2099,12 +2105,13 @@ Funk, David A.
     biblio-1207
 Furnish, Timothy R.
     biblio-1050
+
 Furth, C.A.
     letters-from-15
     letters-to-14
     letters-to-200
-Furth, Charles
-    letters-to-221
+    letters-to-221 as Furth, Charles
+
 Furuskog, Ragnar
     letters-from-63
     letters-to-662
@@ -2114,6 +2121,8 @@ Fåhraeus, Anna
     biblio-1464
 Fündling, Jörg
     biblio-708
+
+
 Gaborit, Mathieu
     biblio-899
 Gaertner, Christopher
