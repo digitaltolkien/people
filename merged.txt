@@ -1303,6 +1303,8 @@ Costabile, Giovanni C.
     biblio-31
 Coster, Janet
     biblio-1089
+Coston, Paula (née Iley)
+    letters-to-102
 Cotton, Journee
     biblio-586
 Couch, Christopher L.
@@ -2936,19 +2938,17 @@ Høgset, Øystein
     biblio-666
 
 
-I.T.T
+I.T.T ???
     biblio-1227
-III, Karl Taps
+III, Karl Taps ???
     artists-122
 Iaconfcic, Diego
     artists-299
 Ide, Timothy
     artists-63
-Iley), Paula Coston (née
-    letters-to-102
 Imbert, Yannick
     biblio-216
-Incledon family
+Incledon family ???
     scull-and-hammond
 Incledon, Marjorie
     letters-from-38
@@ -2965,11 +2965,11 @@ Indick, Benjamin P.
     letters-to-379
 Inglis, Fred
     biblio-1028
-Inglorion, Gildor
+Inglorion, Gildor ???
     artists-317
 Inkpen, Dani
     biblio-1832
-Irwin, 
+Irwin, ???
     artists-191
 Irwin, Betty J.
     biblio-1735
@@ -2981,6 +2981,8 @@ Itó, Tsukusu Jinn
     biblio-652
 Izzo, Massimiliano
     biblio-218
+
+
 Jackson, Dr. Cyril
     letters-from-108
 Jackson, K.
@@ -2989,10 +2991,11 @@ Jacobs, Suzanne
     biblio-1828
 Jacquet, Quentin
     biblio-883
-Jagiellowicz, Aleksandra
-    artists-305
-Jagielowica, Aleksandra
+
+Jagielowica, Aleksandra ???
     artists-90
+    artists-305 as Jagiellowicz, Aleksandra ???
+
 Jakobsson, Ármann
     biblio-1540
 Jakupcak, Maria Frassati
@@ -3013,7 +3016,7 @@ Jaski, Bart
     biblio-1869
 Jaworski, Jean-Philippe
     biblio-952
-Jaworski, Miss
+Jaworski, Miss ???
     letters-to-395
 Jeffers, Chike
     biblio-1095
@@ -3033,13 +3036,13 @@ Jenike, Kinga
 Jenkinson, Phyllis M.
     letters-from-67
     letters-from-104
-Jennings, Elizabeth
-    letters-to-92
-Jennings, Elizabeth J.
-    letters-to-223
+
 Jennings, Elizabeth Joan
     scull-and-hammond
-Jennings, Henry, Mary and also Aileen and Elizabeth
+    letters-to-92 as Jennings, Elizabeth
+    letters-to-223 as Jennings, Elizabeth J.
+
+Jennings, Henry, Mary and also Aileen and Elizabeth ???
     letters-to-600
 Jensen, Anika
     biblio-607
@@ -3053,10 +3056,11 @@ Jewell, Jason
     biblio-1104
 Jewkes, Professor John
     letters-to-673
-Johanneson, Nils-Lennart
-    biblio-656
-Johannesson, Nils-Lennart
+
+Johannesson, Nils-Lennart ???
     biblio-642
+    biblio-656 as Johanneson, Nils-Lennart ???
+
 Johnson, Brent D.
     biblio-1791
 Johnson, Frazier Alexander
@@ -3080,7 +3084,7 @@ Johnstone, Jim
     biblio-1251
 Jolles, Hermione
     letters-to-643
-Jon, 
+Jon, ???
     letters-to-621
 Jones, Christine
     letters-to-393
@@ -3121,8 +3125,6 @@ Joutsen, Veli-Matti
     artists-351
 Joy, Stephen
     biblio-1129
-Jr, G.S. Rigby
-    letters-to-392
 Jubala, Arkadiusz
     artists-268
 Judd, Graham A.
@@ -3141,6 +3143,8 @@ Jung, Mark E.
     biblio-1335
 Juričková, Martina
     biblio-85
+
+
 Kalafarski, Laura
     biblio-1520
 Kaluta, Michael
@@ -3207,10 +3211,11 @@ Kemball-Cook, Jessica
 Kennard, J.R.
     letters-from-248
     letters-to-195
-Ker, Neil
-    letters-to-300
+
 Ker, Neil Ripley
     scull-and-hammond
+    letters-to-300 as Ker, Neil
+
 Kerley, Helen
     biblio-1272
 Kerry, Paul E.
@@ -3227,20 +3232,20 @@ Khuri, Grace
     biblio-1583
 Kightley, Michael R.
     biblio-1765
+
 Kilbride, K. M. (Katherine Mary)
     letters-from-180
     letters-from-200
     letters-to-598
-Kilbride, Katherine
-    letters-from-237
-Kilbride, Miss
-    letters-to-213
-Kilby, Clyde
-    letters-to-697
+    letters-from-237 as Kilbride, Katherine
+    letters-to-213 as Kilbride, Miss ???
+
 Kilby, Clyde S.
     biblio-317
     letters-from-69
     letters-to-18
+    letters-to-697 as Kilby, Clyde
+
 Killion, Mr.
     letters-to-42
 Kim, Sue
@@ -3249,7 +3254,7 @@ Kinane, Ian
     biblio-1371
 King, Estelle
     letters-to-27
-King, Mr
+King, Mr ???
     letters-to-595
 King, Roger
     biblio-1029
@@ -3298,7 +3303,7 @@ Klinger, Judith
     biblio-387
 Kloczko, Édouard
     biblio-122
-Kloos, Mr. and Mrs.
+Kloos, Mr. and Mrs. ???
     letters-to-338
 Klug, Franz Georg Árpád
     biblio-756
@@ -3315,10 +3320,11 @@ Koch, Evelyn
     biblio-697
 Kocher, Paul H.
     biblio-62
-Koci, Jakub
-    artists-259
+
 Koci, Jakub D.
     artists-135
+    artists-259 as Koci, Jakub
+
 Kokot, Joanna
     biblio-682
 Kollmann, Judith
@@ -3341,10 +3347,11 @@ Korff, Ingeborg
     letters-to-357
 Korpua, Jyrki
     biblio-241
-Kosciuszczuk, Aleksandra
-    artists-249
-Kosciuszuk, Aleksandra
+
+Kosciuszuk, Aleksandra ???
     artists-248
+    artists-249 as Kosciuszczuk, Aleksandra ???
+
 Koslow, Howard
     artists-213
 Kotowicz, Dorota
@@ -3408,6 +3415,8 @@ Kökeritz, Helge
     letters-to-641
 Köser, Stephan
     biblio-699
+
+
 L.F., Mrs.
     letters-to-196
 Labbé, Denis
@@ -5081,6 +5090,8 @@ Riewald, J.G.
     letters-to-593
 Riga, Frank P.
     biblio-365
+Rigby Jr, G.S.
+    letters-to-392
 Riggs, David
     biblio-662
 Riggs, Don
