@@ -8,6 +8,7 @@ I have initially gathered:
   - authors from Le Dragon de Brume’s bibliography
   - artists from the TCG Guide to Calendars
   - senders and recipients from the TCG Guide to Letters
+  - people in the index to Carpenter’s Biography
 
 The raw lists can be found in `raw-lists` (the bibliography authors extracted
 using `scripts/convert-bibl.py`)
