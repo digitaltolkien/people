@@ -4372,10 +4372,11 @@ Napier, Arthur Sampson
     scull-and-hammond
 Nardacci, Barbara
     artists-495
+
 Nardi, Dominic
     biblio-1133
-Nardi, Dominic J.
-    biblio-1807
+    biblio-1807 as Nardi, Dominic J.
+
 Nasmith, Ted
     biblio-313
     artists-1
@@ -4392,11 +4393,12 @@ Naylor, Mrs. Gordon R.
     letters-to-564
 Neal, Philip
     letters-to-550
+
 Neave, Emily Jane
     scull-and-hammond
-Neave, Jane
-    letters-from-48
-    letters-to-31
+    letters-from-48 as Neave, Jane
+    letters-to-31 as Neave, Jane
+
 Neberman, Skyler
     biblio-1155
 Neeneerenee, Renee
@@ -4425,12 +4427,13 @@ Neville, Kate
     biblio-128
 Newall, Mary
     letters-to-693
-Newby, P.H.
-    letters-from-138
-    letters-to-40
+
 Newby, Percy Howard
     scull-and-hammond
-Nichiren, 
+    letters-from-138 as Newby, P.H.
+    letters-to-40 as Newby, P.H.
+
+Nichiren, ???
     artists-460
 Nichol Smith, David
     scull-and-hammond
@@ -4438,7 +4441,7 @@ Nicholas, Angela P.
     biblio-292
 Nicholson, Godfrey
     letters-to-246
-Nicholson, Miss
+Nicholson, Miss ???
     letters-to-629
 Nicholson, Steve
     biblio-1405
@@ -4458,7 +4461,7 @@ Niinikangas, Paivi
     artists-51
 Nikakis, Karen Simpson
     biblio-1783
-Nimwen, 
+Nimwen, ???
     artists-200
 Noad, Charles E.
     biblio-45
@@ -4470,10 +4473,11 @@ Noirez, Jérôme
     biblio-933
 Norbert, Nathaniel
     artists-379
-Nordal, Sigurdur
-    letters-to-121
+
 Nordal, Sigurður
     letters-to-436
+    letters-to-121 as Nordal, Sigurdur
+
 Norrington, A.L.P.
     letters-to-644
 Northey, Miss A. P.
@@ -4488,7 +4492,7 @@ Nummela, Jani
     artists-44
 Nunn, A.C.
     letters-to-363
-Nuppu, 
+Nuppu, ???
     artists-406
 Nuti, Matteo
     artists-337
@@ -4496,6 +4500,8 @@ Nycz, Dominika
     biblio-1367
 Näf, Patrick
     biblio-657
+
+
 O'Brien, Mike
     letters-to-611
 O'Loughlin, J.L.N
