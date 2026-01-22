@@ -13,11 +13,13 @@ I have initially gathered:
 The raw lists can be found in `raw-lists` (the bibliography authors extracted
 using `scripts/convert-bibl.py`)
 
+Since then, Le Dragon de Brume has produced `raw-lists/names-biblio.yaml`.
+
 An initial merge was done with `scripts/merge.py` to produce `merged.txt` which
 We are manually inspecting and editing to group likely duplicates with
 alternative names (or, in some cases, typos).
 
-We have taken a first pass through surnames beginning with A through M.
+We have taken a first pass through surnames beginning with A through N.
 
 This data is made available under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
