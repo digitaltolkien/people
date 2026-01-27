@@ -4955,10 +4955,12 @@ Quigley, Logan
     biblio-1156
 Quinn, Jodi
     biblio-1399
-Quiñonez, Jorge
-    biblio-1356
+
 Quiñónez, Jorge
     letters-to-515
+    biblio-1356 as Quiñonez, Jorge
+
+
 Raatikainen, Lotta
     artists-67
 Raatikainen, Penelope
