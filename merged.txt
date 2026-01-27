@@ -4502,12 +4502,6 @@ Näf, Patrick
     biblio-657
 
 
-O'Brien, Mike
-    letters-to-611
-O'Loughlin, J.L.N
-    letters-to-224
-O'Loughlin, J.L.N.
-    letters-to-87
 Oakenshield, Charles
     artists-483
 Oberhelman, David D.
@@ -4539,17 +4533,19 @@ Olsson, Caroline
     biblio-928
 Olszanski, Tadeusz Andrzej
     biblio-1205
-Onions, C. T.
-    letters-to-117
-Onions, C.T.
-    letters-from-75
-    letters-from-151
+
 Onions, Charles Talbut
     scull-and-hammond
-Opie, Iona and Peter
-    letters-to-226
-Orator, Public
-    letters-from-125
+    letters-to-117 as Onions, C. T.
+    letters-from-75 as Onions, C.T.
+    letters-from-151 as Onions, C.T.
+
+Opie, Iona
+    letters-to-226 as Opie, Iona and Peter
+
+Opie, Peter
+    letters-to-226 as Opie, Iona and Peter
+
 Orazi, Kelly R.
     biblio-1068
 Orbach, Danny
@@ -4558,7 +4554,7 @@ Ordway, Holly
     biblio-93
 Organ, Michael
     biblio-601
-Orgulas, 
+Orgulas, ??? 
     artists-328
 Orizio, Dany
     artists-194
@@ -4593,12 +4589,20 @@ Ozonas, Miguel
     artists-430
 O’Brien, Donald
     biblio-256
+O'Brien, Mike
+    letters-to-611
 O’Byrne, Damian
     biblio-1092
+
 O’Loughlin, J.L.N.
     letters-from-236
+    letters-to-87 as O'Loughlin, J.L.N.
+    letters-to-224 as O'Loughlin, J.L.N
+
 O’Neill, Timothy R.
     biblio-1026
+
+
 Paar, Kathryn
     biblio-1534
 Pace, David Paul
