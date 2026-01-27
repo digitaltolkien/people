@@ -4985,7 +4985,7 @@ Ramos, Noelia
     biblio-380
 Rance, Didier
     biblio-438
-Rang, Mr
+Rang, Mr ???
     letters-to-383
 Ranghino, Andrea
     artists-418
@@ -5001,24 +5001,26 @@ Rantanen, Turkka
     artists-308
 Rapaport, William J.
     letters-to-663
-Rasdall, E.
-    letters-to-150
+
 Rasdall, Ernest
     letters-to-249
+    letters-to-150 as Rasdall, E.
+
 Rasmussen, Andrew
     biblio-1108
 Rasmussen, Kip
     artists-109
-Rasmussen, Mr
+Rasmussen, Mr ???
     letters-to-427
 Rateliff, John D.
     biblio-16
 Ratliff, William E.
     letters-to-191
+
 Rattenbury, R.M.
     scull-and-hammond
-Rattenbury, Robert (Robert Mantle)
-    letters-to-606
+    letters-to-606 as Rattenbury, Robert (Robert Mantle)
+
 Ratulangie, Dorine
     biblio-421
 Rausch, Roman
@@ -5039,10 +5041,11 @@ Rea, Jason
     biblio-1538
 Read, Marc
     biblio-343
-Reade, Father F.V.
-    letters-to-574
+
 Reade, Francis Vincent
     scull-and-hammond
+    letters-to-574 as Reade, Father F.V.
+
 Ready, William
     letters-from-109
     letters-to-38
@@ -5086,11 +5089,12 @@ Retakh, Alexander
     biblio-161
 Reynolds, Patricia
     biblio-129
-Reynolds, R.W.
-    letters-from-26
-    letters-to-176
+
 Reynolds, Richard William
     scull-and-hammond
+    letters-from-26 as Reynolds, R.W.
+    letters-to-176 as Reynolds, R.W.
+
 Reynolds, William
     biblio-1688
 Rhodes, Christopher
@@ -5119,10 +5123,11 @@ Riddle, A.W.
     letters-to-129
 Riddle, M.J.
     artists-234
-Ridley, M.R.
-    letters-to-387
+
 Ridley, Maurice Roy
     scull-and-hammond
+    letters-to-387 as Ridley, M.R.
+
 Ridolfo, Sergeant [James]
     letters-to-422
 Ridoux, Charles
@@ -5181,13 +5186,13 @@ Roberts, Joshua
     biblio-1297
 Roberts, Mr. [Anthony]
     letters-to-252
-Robertson, Mrs.
+Robertson, Mrs. ???
     letters-to-265
 Robertson, Mrs. Phyllis
     letters-to-256
 Robinson, Derek
     biblio-1033
-Robinson, Miss
+Robinson, Miss ???
     letters-to-283
 Robinson, Tim
     letters-to-530
@@ -5243,7 +5248,7 @@ Rosebury, Brian
     biblio-189
 Rosegrant, John
     biblio-79
-Rosemary, 
+Rosemary, ???
     letters-to-130
 Rosenberg, Jerome
     biblio-1690
@@ -5255,9 +5260,9 @@ Rossa, Gloria Della
     artists-273
 Rossenberg, René van
     biblio-95
-Rossetti, Maria Chiara
+Rossetti, Maria Chiara ???
     artists-356
-Rossetti, Mariachiara
+Rossetti, Mariachiara ???
     artists-154
 Rossi, Federico Maria
     biblio-1652
@@ -5318,6 +5323,8 @@ Ryngen, Jakob
     artists-57
 Röttinger, Annika
     biblio-396
+
+
 S.J., David Kolb,
     letters-to-376
 S.J., P. Rorke,
