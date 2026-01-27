@@ -4639,7 +4639,7 @@ Pantin, Isabelle
     biblio-74
 Paolini, Rossella
     artists-498
-Papps, Mr.
+Papps, Mr. ???
     letters-to-675
 Paquet, P. A.
     biblio-980
@@ -4653,7 +4653,7 @@ Paresce, Enrica
     artists-436
 Paris, Antoine
     biblio-227
-Parke, Mrs
+Parke, Mrs ???
     letters-to-406
 Parker, Victor
     biblio-1576
@@ -4663,10 +4663,11 @@ Parks, Joshua T.
     biblio-1569
 Parman, Sue
     letters-to-149
-Parmentier, Francois
-    artists-476
+
 Parmentier, François
     biblio-435
+    artists-476 as Parmentier, Francois
+
 Parnum, Derrick
     letters-to-232
 Parri, Domizia
@@ -4689,14 +4690,14 @@ Pasin, Raimondo
     artists-182
 Pasqua, Ilaria
     artists-441
-Patricia, 
+Patricia, ???
     letters-to-278
 Patterson, Hartley
     biblio-1271
 Patterson, Nancy-Lou
     biblio-30
     artists-246
-Paul, 
+Paul, ???
     letters-to-451
 Pavlac, Brian
     artists-206
@@ -4714,13 +4715,13 @@ Pearce, Joseph
     biblio-355
 Pedersen, Kusumita
     biblio-1166
-Peel, Mr
+Peel, Mr ???
     letters-to-617
 Pehrsson, Sian J.
     biblio-1441
 Peippo, Leena
     artists-385
-Pelargien, 
+Pelargien, ???
     artists-458
 Pennati, Osea
     artists-368
@@ -4728,7 +4729,7 @@ Penniman, T.K.
     letters-from-240
 Percival, Michael
     biblio-1220
-Peredhil, Elrond
+Peredhil, Elrond ???
     biblio-1679
 Pereira, Leon
     biblio-769
@@ -4746,9 +4747,9 @@ Perron, Corentin
     artists-329
 Perron, Laurent
     artists-330
-Perry The Winkle
+Perry The Winkle ???
     biblio-1254
-Perry, Miss
+Perry, Miss ???
     letters-to-36
 Perrúa, Francisco
     letters-to-49
@@ -4780,8 +4781,6 @@ Phenix, Carol Emery
     artists-65
 Phillips-Zur-Liden, Vanessa
     biblio-1170
-Photographs, 
-    artists-203
 Pierson, Clément
     biblio-310
 Pikanen, Lauri
@@ -4815,8 +4814,12 @@ Plaza, Pablo de la Torre
     artists-280
 Plet-Nicolas, Florence
     biblio-931
-Plimmer, Charlotte and Denis
-    letters-to-153
+
+Plimmer, Charlotte
+    letters-to-153 as Plimmer, Charlotte and Denis
+Plimmer, Denis
+    letters-to-153 as Plimmer, Charlotte and Denis
+
 Ploeg, Ron
     artists-29
 Plotz, Dick
@@ -4831,12 +4834,13 @@ Pokrivcakova, Silvia
     biblio-1505
 Polacco, Armando
     artists-456
-Polet, Mr
+Polet, Mr ???
     letters-to-245
+
 Polk, Nicholas J. S.
     biblio-101
-Polk, Nick
-    biblio-1346
+    biblio-1346 as Polk, Nick
+
 Pollard, A.W.
     letters-from-82
     letters-to-579
@@ -4859,8 +4863,10 @@ Porfidia, Fabio
     artists-345
 Porter, Lynnette
     biblio-1626
-Porthouse, Mr [Royston F.]
-    letters-to-424
+
+Porthouse, Royston F.
+    letters-to-424 as Porthouse, Mr [Royston F.]
+
 Post, Marco R. S.
     biblio-1806
 Postma, Lidia
@@ -4869,16 +4875,19 @@ Potter, Phyllis
     letters-from-171
 Potts, Michael
     biblio-1556
-Potts, Mr. Richard
-    letters-to-355
+
+Potts, Richard
+    letters-to-355 as Potts, Mr. Richard
+
 Potts, Stephen W.
     biblio-328
 Poulain-Gautret, Emmanuelle
     biblio-922
+
 Power, Canon Norman S.
     letters-to-463
-Power, N. S
-    biblio-1260
+    biblio-1260 as Power, N. S
+
 Power, Rebecca
     biblio-1884
 Poyet, Françoise
@@ -4907,9 +4916,9 @@ Prothero, James
     biblio-1831
 Protopapas, Valerie
     artists-230
-Provini, Sandra
+Provini, Sandra ???
     biblio-892
-Provinin, Sandra
+Provinin, Sandra ???
     biblio-868
 Provost, Lauren
     biblio-1539
@@ -4923,16 +4932,19 @@ Pugh, Dylan
     biblio-533
 Pukkila, Marilyn R.
     biblio-279
-Purdy, Margaret
-    artists-221
+
 Purdy, Margaret R.
     biblio-1707
+    artists-221 as Purdy, Margaret
+
 Purtill, Richard
     biblio-615
 Pyndur, Szymon
     biblio-1426
 Périer, Isabelle
     biblio-924
+
+
 Qadri, Jean-Philippe
     biblio-113
 Queripel, Rory M.
