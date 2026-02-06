@@ -3330,6 +3330,10 @@ Koci, Jakub D.
 
 Kokot, Joanna
     biblio-682
+
+Kolb, David
+    letters-to-376 as S.J., David Kolb,
+
 Kollmann, Judith
     biblio-588
 Kolovos, Dimitrios
@@ -4339,6 +4343,7 @@ Murray, Robert ???
 Murray, Robert Patrick Ruthven
     scull-and-hammond
     letters-to-140 as Murray, Father Robert
+    letters-to-362 as S.J., Robert Murray,
 
 Murray, Rosfrith
     letters-to-134
@@ -5234,6 +5239,10 @@ Rone, Vincent E.
     biblio-554
 Rook, Alan
     letters-to-88
+
+Rorke, P.
+    letters-to-302 as S.J., P. Rorke,
+
 Rosa, Francesda
     artists-496
 Rose, David Charles
@@ -5325,12 +5334,6 @@ Röttinger, Annika
     biblio-396
 
 
-S.J., David Kolb,
-    letters-to-376
-S.J., P. Rorke,
-    letters-to-302
-S.J., Robert Murray,
-    letters-to-362
 Sabo, Deborah
     biblio-1784
 Sada, Marco
@@ -5360,16 +5363,18 @@ Salmon, Michael
     letters-to-305
 Salo, David
     biblio-1087
-Salt, L.E.
-    letters-to-668
+
 Salt, Lionel
     letters-to-211
+    letters-to-668 as Salt, L.E.
+
 Salter, G. Connor
     biblio-1904
-Salu, Mary
-    letters-from-232
+
 Salu, Mary Bertha
     scull-and-hammond
+    letters-from-232 as Salu, Mary
+
 Salus, Peter H.
     letters-to-633
 Sammons, Margaret
@@ -5402,9 +5407,9 @@ Sanna, Antonio
     biblio-1422
 Santoski, Taum
     biblio-362
-Santoski, Thomas
+Santoski, Thomas ???
     biblio-1700
-Santoski, Tom
+Santoski, Tom ???
     artists-115
 Sanz, Mónica
     biblio-751
@@ -5428,19 +5433,22 @@ Saxey, Esther
     biblio-1632
 Saxton, Benjamin
     biblio-602
-Sayer, George
-    biblio-525
-    letters-to-25
+
 Sayer, George Sydney Benedict
     scull-and-hammond
-Sayer, George and Moira
-    letters-to-458
+    biblio-525 as Sayer, George
+    letters-to-25 as Sayer, George
+    letters-to-458 as Sayer, George and Moira
+
 Sayer, Moira
     letters-to-228
-Scaradarelli, Filippo
+    letters-to-458 as Sayer, George and Moira
+
+Scaradarelli, Filippo ???
     artists-331
-Scardarelli, Filippo
+Scardarelli, Filippo ???
     artists-347
+
 Scarf, Christopher
     biblio-1048
 Scavera, Rachel
@@ -5535,16 +5543,17 @@ Sebo, Erin
     biblio-1370
 Seeman, Chris
     biblio-188
-Segar, Miss
+Segar, Miss ???
     letters-to-214
 Segura, Eduardo
     biblio-284
-Selby, G.E.
-    letters-from-227
-    letters-to-89
+
 Selby, Geoffrey E.
     letters-from-186
     letters-to-212
+    letters-from-227 as Selby, G.E.
+    letters-to-89 as Selby, G.E.
+
 Sell, Carl
     biblio-617
 Sellès, Bénédicte
@@ -5553,10 +5562,11 @@ Selvén, Sebastian
     biblio-1593
 Semprini, Guido
     biblio-466
-Sena, Kenton
-    biblio-1341
+
 Sena, Kenton L.
     biblio-271
+    biblio-1341 as Sena, Kenton
+
 Senior, W. A.
     biblio-104
 Senney, Garrett
@@ -5589,7 +5599,7 @@ Shelton, Luke
     biblio-99
 Shepard, Ernest
     letters-from-105
-Sheppard, Mr.
+Sheppard, Mr. ???
     letters-to-326
 Shergold, Clive
     biblio-1877
@@ -5599,10 +5609,11 @@ Sherwood, Will
     biblio-141
 Shipley, D. Graham J.
     biblio-745
-Shippey, T. A.
-    biblio-4
+
 Shippey, Tom
     letters-to-452
+    biblio-4 as Shippey, T. A.
+
 Shogren, Benjamin
     biblio-1109
 Shorten, Jay
@@ -5638,14 +5649,15 @@ Simon, Derek
     biblio-379
 Simongiovanni, Louise
     biblio-821
-Simons, Johnathan
+Simons, Johnathan ???
     biblio-1247
-Simons, Jon S.
+Simons, Jon S. ???
     biblio-196
-Simons, Lester
-    biblio-1414
+
 Simons, Lester E.
     biblio-1208
+    biblio-1414 as Simons, Lester
+
 Simonson, Martin
     biblio-60
 Simpson, Eleanor R.
@@ -5683,42 +5695,40 @@ Smadja, Isabelle
     biblio-934
 Smalley, Ian
     biblio-1395
-Smith, A. H.
-    letters-to-116
-Smith, A.H.
-    letters-from-162
+
 Smith, Albert Hugh
     scull-and-hammond
-Smith, Arden
-    biblio-281
+    letters-to-116 as Smith, A. H.
+    letters-from-162 as Smith, A.H.
+
 Smith, Arden R.
     biblio-48
+    biblio-281 as Smith, Arden
+
 Smith, Chris
     biblio-889
 Smith, Christine
     artists-205
-Smith, D. (David) Nichol
-    letters-to-172
 Smith, Daniel
     artists-38
 Smith, David
     biblio-760
+
 Smith, David Nichol
     letters-from-173
     letters-to-112
-Smith, G. B.
-    letters-to-197
-Smith, G.B.
-    letters-from-4
-    letters-from-134
-    letters-to-32
-Smith, Geoffrey B.
-    letters-from-126
+    letters-to-172 as Smith, D. (David) Nichol
+
 Smith, Geoffrey Bache
     scull-and-hammond
     letters-from-62
-Smith, Geofrey Bache
-    letters-from-216
+    letters-to-197 as Smith, G. B.
+    letters-from-4 as Smith, G.B.
+    letters-from-134 as Smith, G.B.
+    letters-to-32 as Smith, G.B.
+    letters-from-126 as Smith, Geoffrey B.
+    letters-from-216 as Smith, Geofrey Bache
+
 Smith, Helen
     biblio-1263
 Smith, Laura Lee
@@ -5729,16 +5739,16 @@ Smith, Leslie
     letters-to-192
 Smith, Melissa A.
     biblio-563
-Smith, Mrs.
+Smith, Mrs. ???
     letters-from-36
     letters-to-79
 Smith, Murray
     biblio-178
 Smith, Nancy
     letters-to-65
-Smith, Paul
+Smith, Paul ???
     biblio-773
-Smith, Paul J.
+Smith, Paul J. ???
     biblio-805
 Smith, R.A. [Ruth]
     letters-from-188
@@ -5757,7 +5767,7 @@ Smurthwaite, Victoria
 Smythe, Colin
     letters-from-220
     letters-to-28
-Snapp, Mr
+Snapp, Mr ???
     letters-to-423
 Sneep, Victor
     artists-278
@@ -5813,7 +5823,7 @@ Sponchiado, Andrea
     artists-455
 Sprouse, Sarah
     biblio-1167
-Sr. Marie-Élisabeth
+Sr. Marie-Élisabeth ???
     biblio-949
 St-Martin, Laura Iseut Lafrance
     biblio-1439
@@ -5893,10 +5903,11 @@ Stockholm, Peter
     letters-to-688
 Stockton, Jim
     biblio-1829
-Stoddard, William
-    biblio-1717
+
 Stoddard, William H.
     biblio-627
+    biblio-1717 as Stoddard, William
+
 Stoker, Richard J.
     biblio-1597
 Stone, Martin C.
@@ -5907,7 +5918,7 @@ Stopfel, Susanne
     biblio-794
 Storelli, Xavier
     biblio-909
-Stormrider, 
+Stormrider, ???
     artists-145
 Stout, Andrew C.
     biblio-504
@@ -5927,41 +5938,51 @@ Stratyner, Leslie
     biblio-593
 Straubhaar, Sandra Ballif
     biblio-266
-Strecker, Dave
-    biblio-1352
+
 Strecker, David
     biblio-1354
+    biblio-1352 as Strecker, Dave ???
+
 Streitberger, Sebastian
     biblio-392
-Strokowska, Helena
+
+Strokowska, Helena ???
     artists-129
-Strolkowska, Helena
+Strolkowska, Helena ???
     artists-269
+
 Stuart, Robert
     biblio-480
 Stuecklin, Christina Ljungberg
     biblio-659
-Sturch, Richard
-    biblio-282
+
 Sturch, Richard L.
     letters-to-480
+    biblio-282 as Sturch, Richard
+
 Sturch, Sarah J.
     biblio-1216
 Sturgis, Amy H.
     biblio-589
 Sudell, T. S.
     biblio-1554
-Suffield family
+
+Suffield family ???
     scull-and-hammond
 Suffield, Emily Jane
     letters-from-130
+    scull-and-hammond as Suffield family
 Suffield, Jane
     letters-to-686
+    scull-and-hammond as Suffield family
 Suffield, John
     letters-from-33
+    scull-and-hammond as Suffield family
 Suffield, Roland
     letters-from-169
     letters-to-529
+    scull-and-hammond as Suffield family
+
 Sullivan III, C. W.
     biblio-568
 Summers, Rosemary
@@ -5980,7 +6001,7 @@ Sutcliffe, Mr.
     letters-to-638
 Suter, Daniel
     biblio-1319
-Sutton, Mr.
+Sutton, Mr. ???
     letters-to-584
 Sutton, Valerie
     biblio-1222
@@ -5990,13 +6011,14 @@ Swain, Larry
     biblio-331
 Swank, Kris
     biblio-26
-Swann, 
+Swann, ???
     letters-to-468
-Swann, Donald
-    letters-from-73
-    letters-to-15
+
 Swann, Donald Ibrahim
     scull-and-hammond
+    letters-from-73 as Swann, Donald
+    letters-to-15 as Swann, Donald
+
 Swann, Janet
     letters-to-483
     letters-to-636
@@ -6008,13 +6030,14 @@ Swanwick, Michael
     biblio-451
 Swazo, Norman K.
     biblio-1606
-Sweet, Darrell
-    artists-215
+
 Sweet, Darrell K.
     artists-119
+    artists-215 as Sweet, Darrell
+
 Swinford, Dean
     biblio-1673
-Sword, Black
+Sword, Black ???
     artists-354
 Swycaffer, Jefferson P.
     biblio-1715
@@ -6030,6 +6053,8 @@ Sérié, Pierre
     biblio-961
 Söderhäll, Bengt
     letters-from-132
+
+
 T.R.C., Miss
     letters-to-551
 Taafe, Michael
