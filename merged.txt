@@ -773,6 +773,7 @@ Brookes-Smith, Colin
     letters-from-86
 Brookes-Smith, Jennifer
     letters-to-234
+    letters-to-218 as (Brookes-Smith), Jennifer Paxman
 
 Brooks, Britton
     biblio-1162
@@ -922,6 +923,9 @@ Butynskyi, Chris
     biblio-1105
 Byrne, Evelyn B.
     letters-to-437
+
+Bywater-Hicks, Clarence
+    artists-289 as VI, Clarence Bywater-Hicks
 
 Bülles, Marcel R.
     biblio-577 as Bülles, Marcel
@@ -1888,6 +1892,9 @@ Farrer, Katharine Dorothy
     letters-from-40 as Farrer, Katharine
     letters-to-21 as Farrer, Katharine
     letters-to-547 as Farrer, Katharine
+
+Farrington, Mr. ???
+    letters-to-592 as Whiting, Messrs Farrington &
 
 Farrugia, Lindsay
     biblio-1281
@@ -4191,6 +4198,9 @@ Mitchison, Naomi Mary Margaret
 Mitton family ???
     scull-and-hammond
 
+(Mitton), Mabel Tolkien ???
+    letters-to-601
+
 Modlmayr, Hans-Jörg
     letters-to-160
     letters-to-421 as Modlmayr, Hans Jörg
@@ -4829,8 +4839,11 @@ Ploeg, Ron
     artists-29
 Plotz, Dick
     letters-to-44
+
 Pocock, Guy
     letters-to-582
+    letters-from-163 as (BBC), Guy Pocock
+
 Pohjola, Mike
     artists-314
 Pokrivcak, Anton
@@ -6409,29 +6422,28 @@ Ulrich, Andrea
     biblio-1380
 Underwood, Michael R.
     biblio-1364
-Unwin, Allen &
-    letters-from-53
 Unwin, Camilla
     letters-to-386
 Unwin, Philip
     letters-from-49
     letters-to-68
     letters-to-322
-Unwin, Rayner
-    biblio-224
-    letters-from-5
-    letters-from-131
-    letters-to-3
+
 Unwin, Rayner Stephens
     scull-and-hammond
+    biblio-224 as Unwin, Rayner
+    letters-from-5 as Unwin, Rayner
+    letters-from-131 as Unwin, Rayner
+    letters-to-3 as Unwin, Rayner
+
 Unwin, Sir Stanley
     letters-from-139
     letters-to-101
-Unwin, Stanley
-    scull-and-hammond
-    letters-from-2
-    letters-to-4
-Unwin, [Rayner?]
+    scull-and-hammond as Unwin, Stanley
+    letters-from-2 as Unwin, Stanley
+    letters-to-4 as Unwin, Stanley
+
+Unwin, [Rayner?] ???
     letters-to-492
 Upstone, Sara
     biblio-1761
@@ -6443,14 +6455,15 @@ Urrutia, Benjamin
     biblio-1710
 Utter, Benjamin D.
     biblio-1107
-VI, Clarence Bywater-Hicks
-    artists-289
+
+
 Vaccaro, Christopher
     biblio-51
-Vaha-Aho, Sami
-    artists-292
+
 Vaha-Aho, Sami Olavi
     artists-301
+    artists-292 as Vaha-Aho, Sami
+
 Valéry, Francis
     biblio-953
 Van Curren, Garrett
@@ -6475,11 +6488,12 @@ Vazquez, Gregory Filograna
     artists-427
 Vazquez, Monica
     biblio-1144
-Veale, Douglas
-    letters-from-50
-    letters-to-122
+
 Veale, Sir Douglas
     letters-to-670
+    letters-from-50 as Veale, Douglas
+    letters-to-122 as Veale, Douglas
+
 Vejdemo, Susanne
     biblio-643
 Veldhoen, Bart
@@ -6508,9 +6522,9 @@ Veugen, Connie
     biblio-673
 Veyrié, Sylvain
     biblio-305
-Vezzali, Valentina
+Vezzali, Valentina ???
     artists-360
-Vezzani, Valentina
+Vezzani, Valentina ???
     artists-332
 Viars, Karen
     biblio-1808
@@ -6545,6 +6559,8 @@ Vukelić, Dejan M.
     biblio-1431
 Vădean, Mirella Țărmure
     biblio-311
+
+
 Wade-Gery, Henry Theodore
     scull-and-hammond
 Wagner, Constance G. J.
@@ -6569,11 +6585,11 @@ Waldron, K. J.
     biblio-1666
 Waldron, Molly
     letters-to-339
-Walker, Miss
+Walker, Miss ???
     letters-to-407
-Walker, Miss [Karen C.]
+Walker, Miss [Karen C.] ???
     letters-to-420
-Walker, Mr.
+Walker, Mr. ???
     letters-to-199
 Walker, R. C.
     biblio-1721
@@ -6615,11 +6631,11 @@ Watson, D. A. K.
     biblio-1435
 Weatherhead, Milton Nye
     biblio-1140
-Weatherhead, Mrs.
+Weatherhead, Mrs. ???
     letters-from-197
 Webster, Deborah
     letters-to-280
-Webster, Mrs.
+Webster, Mrs. ???
     letters-to-165
 Webster, P. J.
     biblio-1410
@@ -6641,7 +6657,7 @@ Weldrake, Dave
     biblio-352
 Welis, Yuval
     biblio-665
-Welland, Mr
+Welland, Mr ???
     letters-to-535
 Wells, Andrew
     biblio-262
@@ -6659,13 +6675,14 @@ Westra, Liuwe H.
     biblio-798
 Westvik, S. R.
     biblio-1454
-Wettach, Mr.
+Wettach, Mr. ???
     letters-to-522
-Weyant, Curtis
-    biblio-1881
+
 Weyant, Curtis A.
     biblio-1568
-Wheeler, Mr.
+    biblio-1881 as Weyant, Curtis
+
+Wheeler, Mr. ???
     letters-to-389
 Wheeler, R.E.M.
     letters-from-47
@@ -6675,10 +6692,11 @@ Wheeler, Timothy J.
     letters-to-154
 Whelan, Michael
     artists-118
-Whetter, K. S.
-    biblio-1767
+
 Whetter, Kevin S.
     biblio-1887
+    biblio-1767 as Whetter, K. S.
+
 Whitaker, Lynn
     biblio-519
 Whitby, Sir Lionel
@@ -6701,8 +6719,10 @@ Whitelock, Dorothy
     scull-and-hammond
 Whitfield, Dom Augustine
     letters-to-647
-Whiting, Messrs Farrington &
-    letters-to-592
+
+Whiting, Mr. ???
+    letters-to-592 as Whiting, Messrs Farrington &
+
 Whitmire, John F.
     biblio-1580
 Whitt, Richard J.
@@ -6725,11 +6745,11 @@ Wieland, Albert
     letters-to-412
 Wiemann, Dirk
     biblio-1496
-Wiggins, Mr
+Wiggins, Mr ???
     letters-to-696
 Wilcox, Miranda
     biblio-1011
-Wilding, Mrs.
+Wilding, Mrs. ???
     letters-to-173
 Wiley, C. R.
     biblio-1090
@@ -6748,27 +6768,29 @@ Willets, Marjorie R
     biblio-1238
 Willhite, Gary L.
     biblio-1188
-Williams, Charles
-    letters-from-81
-    letters-from-145
-    letters-to-481
+
 Williams, Charles Walter Stansby
     scull-and-hammond
+    letters-from-81 as Williams, Charles
+    letters-from-145 as Williams, Charles
+    letters-to-481 as Williams, Charles
+
 Williams, Colin
     artists-2
 Williams, Donald T.
     biblio-244
+
 Williams, Florence "Michal"
     letters-to-184
-Williams, Florence (Michal)
-    letters-to-242
+    letters-to-242 as Williams, Florence (Michal)
+
 Williams, Gwydion M.
     biblio-1406
 Williams, Hamish
     biblio-43
 Williams, Henrik
     biblio-654
-Williams, M.
+Williams, M. ???
     letters-from-190
 Williams, Madawc
     biblio-531
@@ -6789,11 +6811,11 @@ Willow, Steven
     artists-233
 Wills, Kacie L.
     biblio-761
-Wilson, Frank
+Wilson, Frank ???
     biblio-1176
-Wilson, Frank Percy
+Wilson, Frank Percy ???
     scull-and-hammond
-Wilson, M.
+Wilson, M. ???
     letters-to-344
 Wilson, R.M.
     letters-from-136
@@ -6806,13 +6828,16 @@ Wipf, Anne
     artists-153
 Wise, Dennis Wilson
     biblio-89
-Wiseman, C.L.
-    letters-to-293
-Wiseman, Christopher
-    letters-from-3
-    letters-to-16
+
 Wiseman, Christopher Luke
     scull-and-hammond
+    letters-to-293 as Wiseman, C.L.
+    letters-from-3 as Wiseman, Christopher
+    letters-to-16 as Wiseman, Christopher
+
+Wiseman, Mary St John
+    letters-from-183 as [Wiseman], Mary St John
+
 Witt, Jonathan
     biblio-1623
 Wittrup, Kenton E.
@@ -6836,9 +6861,9 @@ Wollheim, Donald A.
     letters-to-155
 Wood, Dorothy
     letters-to-26
-Wood, Mr
+Wood, Mr ???
     letters-to-251
-Wood, Mr.
+Wood, Mr. ???
     letters-to-138
 Wood, Ralph C.
     biblio-150
@@ -6854,23 +6879,23 @@ Woollard, Kay
     artists-100
 Woosnam-Savage, Robert C.
     biblio-1470
-Wordsworth, 
+Wordsworth, ???
     letters-to-267
-Wordsworth, J. F.
+Wordsworth, J. F. ???
     letters-to-513
-Wordsworth, Jonathan
+Wordsworth, Jonathan ???
     letters-to-53
 Workman, Sarah
     biblio-1498
 Worskett, Colonel
     letters-to-370
-Wrenn, C. L. (Charles Leslie)
-    letters-to-603
-Wrenn, C.L.
-    letters-from-92
-    letters-to-118
+
 Wrenn, Charles Leslie
     scull-and-hammond
+    letters-to-603 as Wrenn, C. L. (Charles Leslie)
+    letters-from-92 as Wrenn, C.L.
+    letters-to-118 as Wrenn, C.L.
+
 Wright, E. M.
     letters-to-198
 Wright, Joseph
@@ -6879,7 +6904,7 @@ Wright, Joseph
     letters-to-204
 Wrightson, Patricia
     letters-from-201
-Wrigley, Mr
+Wrigley, Mr ???
     letters-to-306
 Wu, Peizhen
     biblio-1586
@@ -6889,21 +6914,25 @@ Wygnanski, Maciej
     artists-13
 Wyke-Smith, Edward Augustine
     scull-and-hammond
-Wyld, H.C.
-    letters-from-152
+
 Wyld, Henry Cecil Kennedy
     scull-and-hammond
-Wyld, Mrs.
+    letters-from-152 as Wyld, H.C.
+
+Wyld, Mrs. ???
     letters-to-667
 Wynne, Hilary
     biblio-1038
-Wynne, Patrick
-    biblio-75
+
 Wynne, Patrick H.
     artists-17
     letters-to-627
+    biblio-75 as Wynne, Patrick
+
 Wytenbroek, J. R.
     biblio-623
+
+
 Yager, Susan
     biblio-1518
 Yandell, Stephen
@@ -6916,6 +6945,8 @@ Young, Helen
     biblio-273
 Young, Kevin J.
     biblio-151
+
+
 Zanetti, Laura
     biblio-1134
 Zapryagaev, Alexander
@@ -6932,7 +6963,7 @@ Zemmour, Corinne
     biblio-1766
 Zettersten, Arne
     biblio-301
-Zettersten, Dr.
+Zettersten, Dr. ???
     letters-to-282
 Zhang, Lyra Keran
     biblio-1865
@@ -6956,30 +6987,35 @@ Zinnanti, Massimiliano
     artists-420
 Zlosnik, Sue
     biblio-1628
-Zon, Cecile van
-    artists-101
+
 Zon, Cécile van
     biblio-225
-Zonta, Cinzia
+    artists-101 as Zon, Cecile van
+
+Zonta, Cinzia ???
     artists-357
-Zonta, Cinzin
+Zonta, Cinzin ???
     artists-378
+
 Zuber, Bernie
     biblio-134
     artists-111
     letters-to-431
-Zuber, Berníe
-    biblio-1678
+    biblio-1678 as Zuber, Berníe
+
 Zuydgeest, Leen
     artists-285
 Zwikstra, Corey
     biblio-613
-[Wiseman], Mary St John
-    letters-from-183
+
+
+
 d'Ardenne, Simonne
     letters-from-29
     letters-from-219
     letters-to-86
+    letters-to-683 as d’Ardenne, Simonne
+
 de Armas, Frederick A.
     biblio-1602
 de Lajudie, Marie-Cécile
@@ -6994,11 +7030,10 @@ de la Huerga, Xavier
     biblio-1388
 duPlessis, Nicole M.
     biblio-268
-d’Ardenne, Simonne
-    letters-to-683
-kielo, 
+
+kielo, ???
     artists-412
-soilinki, 
+soilinki, ???
     artists-407
 van Wyk, Ella
     biblio-1382
@@ -7012,17 +7047,11 @@ van Wyk, Ella
     artists-110
 Łękawska, Joanna
     biblio-755
-"Perhael", Conchi
+"Perhael", Conchi ???
     artists-369
-(BBC), Guy Pocock
-    letters-from-163
-(Brookes-Smith), Jennifer Paxman
-    letters-to-218
 (Chapu), Gonzalo Díez
     artists-197
 (Faulconbridge), Gladys Lillian Tilly
     letters-from-187
-(Mitton), Mabel Tolkien
-    letters-to-601
 (Stowe), Mary Jane Tolkien
     letters-to-106
