@@ -6055,7 +6055,7 @@ Söderhäll, Bengt
     letters-from-132
 
 
-T.R.C., Miss
+T.R.C., Miss ???
     letters-to-551
 Taafe, Michael
     artists-486
@@ -6110,10 +6110,6 @@ Thames, Michael
     biblio-557
 Thayer, Anna E.
     biblio-247
-The Numenoreans
-    biblio-1265
-The Times
-    biblio-1264
 Thibodeaux, Toni
     biblio-1839
 Thiessen, David
@@ -6142,7 +6138,7 @@ Thompson, Lovell
     letters-from-118
 Thompson, Mary
     letters-from-241
-Thompson, Mr.
+Thompson, Mr. ???
     letters-to-340
 Thompson, Phoebe J.
     biblio-906
@@ -6189,77 +6185,88 @@ Tneh, David
     biblio-515
 Tober, Carolin
     biblio-705
-Todd, Mr
+Todd, Mr ???
     letters-to-499
 Tolhurst, Bernard Joseph
     scull-and-hammond
+
 Tolhurst, Denis Anthony
     scull-and-hammond
-Tolhurst, Denis and Joyce
-    letters-to-274
-Tolhurst, Dr
+    letters-to-274 as Tolhurst, Denis and Joyce
+Tolhurst, Joyce
+    letters-to-274 as Tolhurst, Denis and Joyce
+Tolhurst, Dr ???
     letters-to-286
+
 Tolkien family
     scull-and-hammond
 Tolkien, Angela
     letters-from-172
-Tolkien, Arthur
-    letters-from-30
-    letters-to-202
+
 Tolkien, Arthur Reuel
     scull-and-hammond
+    letters-from-30 as Tolkien, Arthur
+    letters-to-202 as Tolkien, Arthur
+
 Tolkien, Baillie
     biblio-885
 Tolkien, Charles Woodrow
     letters-to-676
-Tolkien, Christopher
-    biblio-1243
-    artists-204
-    letters-from-8
-    letters-to-2
+
 Tolkien, Christopher Reuel
     scull-and-hammond
-Tolkien, Edith
-    letters-from-14
-    letters-to-163
+    biblio-1243 as Tolkien, Christopher
+    artists-204 as Tolkien, Christopher
+    letters-from-8 as Tolkien, Christopher
+    letters-to-2 as Tolkien, Christopher
+
 Tolkien, Edith Mary
     scull-and-hammond
+    letters-from-14 as Tolkien, Edith
+    letters-to-163 as Tolkien, Edith
+
 Tolkien, Faith
     letters-to-321
 Tolkien, Father John
     letters-to-270
+
 Tolkien, Gabriel
     letters-to-588
-Tolkien, Gabriel and June
-    letters-to-653
-Tolkien, Hilary
-    letters-from-20
-    letters-to-7
-    letters-to-590
+    letters-to-653 as Tolkien, Gabriel and June
+
 Tolkien, Hilary Arthur Reuel
     scull-and-hammond
-Tolkien, J. R. R.
-    biblio-22
-Tolkien, J.R.R.
-    artists-5
-    letters-from-1
-    letters-from-133
-    letters-to-1
-Tolkien, Joan
+    letters-from-20 as Tolkien, Hilary
+    letters-to-7 as Tolkien, Hilary
+    letters-to-590 as Tolkien, Hilary
+
+Tolkien, Joan ???
     letters-to-544
-Tolkien, Joan Anne
+Tolkien, Joan Anne ???
     letters-to-175
-Tolkien, John
-    letters-to-33
+
 Tolkien, John Benjamin
     letters-to-109
     letters-to-485
+
 Tolkien, John Francis Reuel
     scull-and-hammond
+    letters-to-33 as Tolkien, John
+
+Tolkien, John Ronald Reuel
+    biblio-22 as Tolkien, J. R. R.
+    artists-5 as Tolkien, J.R.R.
+    letters-from-1 as Tolkien, J.R.R.
+    letters-from-133 as Tolkien, J.R.R.
+    letters-to-1 as Tolkien, J.R.R.
+
 Tolkien, Julian
     letters-to-59
+
 Tolkien, June
     letters-to-589
+    letters-to-653 as Tolkien, Gabriel and June
+
 Tolkien, Mabel
     scull-and-hammond
     letters-from-44
@@ -6269,32 +6276,37 @@ Tolkien, Magdalen
     letters-to-591
 Tolkien, Mary Jane
     letters-to-486
-Tolkien, Michael
+
+Tolkien, Michael ???
     biblio-1258
     letters-from-25
     letters-to-9
+
 Tolkien, Michael George
     letters-from-99
     letters-to-5
-Tolkien, Michael H.R.
-    letters-from-102
+
 Tolkien, Michael Hilary Reuel
     scull-and-hammond
+    letters-from-102 as Tolkien, Michael H.R.
+
 Tolkien, Mrs. [Florence]
     letters-to-225
-Tolkien, Priscilla
-    biblio-474
-    letters-from-16
-    letters-to-22
+
 Tolkien, Priscilla Mary Anne Reuel
-    scull-and-hammond
-Tolkin, Mr.
+    scull-and-hammond as Tolkien, Priscilla
+    biblio-474 as Tolkien, Priscilla
+    letters-from-16 as Tolkien, Priscilla
+    letters-to-22 as Tolkien, Priscilla
+
+Tolkin, Mr. ???
     letters-to-429
-Tolley, C.
-    biblio-1242
+
 Tolley, Clive
     biblio-1211
-Tom, 
+    biblio-1242 as Tolley, C.
+
+Tom, ???
     letters-to-656
 Tom, Marie(?)
     letters-to-484
@@ -6308,8 +6320,10 @@ Toner, Christopher
     biblio-1128
 Toninell, Mauro
     biblio-1124
-Took, Belladonna
+
+Took, Belladonna ???
     biblio-47
+
 Took, Marjo
     artists-58
 Torredelforth, Ester
@@ -6320,7 +6334,7 @@ Toselli, Andrea
     artists-265
 Tossetti, Maria Chiara
     artists-344
-Toth, Mr.
+Toth, Mr. ???
     letters-to-263
 Touchard, François
     biblio-982
@@ -6346,8 +6360,10 @@ Trimmer, Randy
     letters-to-455
 Tron, Daniel
     biblio-866
-Trotter, 
+
+Trotter, ???
     letters-from-52
+
 Trought, Vincent
     scull-and-hammond
 Tsampouraki, Maria
@@ -6358,7 +6374,7 @@ Ttitt, Mustaphaa Goa
     artists-286
 Tucev, Natasa
     biblio-671
-Tuilinde
+Tuilinde ???
     biblio-1173
 Turlin, Jean-Rodolphe
     biblio-50
@@ -6374,10 +6390,12 @@ Turville-Petre, Edward Oswald Gabriel
     scull-and-hammond
 Turville-Petre, Joan Elizabeth
     scull-and-hammond
-Tyellas
+Tyellas ???
     biblio-800
 Tyndall, Rev. Denis
     letters-to-371
+
+
 Ubaldini, Mario
     letters-from-56
     letters-to-81
